@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 .App {
   text-align: center;
 }
@@ -36,3 +37,145 @@
     transform: rotate(360deg);
   }
 }
+.header{
+    position:absolute;
+    left:9rem;
+    width:20px;
+    font-family: "Roboto", sans-serif;
+}
+.logo-image{
+  height: auto;
+  position: absolute;
+  top:18px;
+  left:4.6rem;
+  max-height: 30%;
+  max-width: 30%;
+  width:70px;
+  height:70px;
+  background-image: url('https://plus.unsplash.com/premium_photo-1661962960694-0b4ed303744f?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+  mix-blend-mode: multiply;
+  background-position: center;
+}
+.home-page-button{
+    background-color: white;
+    color: black;
+    border: none #008CBA;
+    border-radius:8px;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+}
+.home-page-button:hover {
+  background-color: lightGray;
+  color: white;
+}
+.button-position{
+    position:absolute;
+    top:60px;
+    left:58rem;
+}
+
+.main-buttons{
+        position:absolute;
+        top:120px;
+        right:300px;
+}
+
+.another-home-page-button{
+    background-color: white;
+    color: black;
+    width:70px;
+    height:40px;
+    border: none #008CBA;
+    border-radius:8px;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+}
+.another-home-page-button:hover {
+  background-color: lightBlue;
+  color: white;
+}
+
+.dropbtn {
+  font-family: "Roboto", sans-serif;
+  background-color: white;
+   color: black;
+   width:70px;
+   height:40px;
+   border: none #008CBA;
+   border-radius:8px;
+   font-family: "Roboto", sans-serif;
+   font-weight: bold;
+}
+
+.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  min-width: 10px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+
+.dropdown-content a {
+  padding: 6px 7px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+background-color: lightBlue
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color:lightBlue;
+  border-radius:17px;
+}
+.projects-dropdown {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: repeat(3, auto);
+  grid-gap: 5px;
+  padding: 5px;
+  left:-100px;
+}
+
+.slider-background{
+ background-image: url('https://www.businessminder.net/img/slides/slide-bg.jpg');
+   width:1370px;
+   height:450px;
+   top:185px;
+   left:-1px;
+   position:absolute;
+}
+
+.video-slider {
+   position:absolute;
+   width:1367px;
+   height:450px;
+   top:193px;
+    left:-1px;
+}
+
+.video-slide {
+  position: absolute;
+  width:1365px;
+  height:450px;
+  left:-1px;
+  object-fit: cover;
+  transition: opacity 1s ease-in-out;
+  opacity: 0;
+}
+
+.video-slide.active {
+  opacity: 1;
+}
+
