@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 
+
 const videoUrls = [
   `${process.env.PUBLIC_URL}/WeKnowTheTechnology.mp4`,
   `${process.env.PUBLIC_URL}/LetsMakeAnAgrement.mp4`,

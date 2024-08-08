@@ -55,6 +55,7 @@ export default function HomePage(){
       <div>
          <img className="slider-background"></img>
          <VideoSlider/>
+
          </div>
          <HighlightedText/>
          </>

@@ -14,6 +14,7 @@ export default function Header(){
           <button className="home-page-button">> +918754399890</button>&emsp;
           </div>
           <HomePage/>
+
     </>
     );
 }

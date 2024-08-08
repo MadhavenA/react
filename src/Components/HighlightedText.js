@@ -10,6 +10,7 @@ export default function TextRotator() {
       setCurrentWordIndex((prevIndex) => (prevIndex + 1) % words.length);
     }, 2000);
 
+
     return () => clearInterval(intervalId);
   }, []);
 
