@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
 .App {
   text-align: center;
 }
@@ -39,14 +40,15 @@
 }
 .header{
     position:absolute;
-    left:9rem;
+    left:9.2rem;
     width:20px;
+    top:30px;
     font-family: "Roboto", sans-serif;
 }
 .logo-image{
   height: auto;
   position: absolute;
-  top:18px;
+  top:55px;
   left:4.6rem;
   max-height: 30%;
   max-width: 30%;
@@ -150,8 +152,8 @@ background-color: lightBlue
 
 .slider-background{
  background-image: url('https://www.businessminder.net/img/slides/slide-bg.jpg');
-   width:1370px;
-   height:450px;
+   width:1355px;
+   height:440px;
    top:185px;
    left:-1px;
    position:absolute;
@@ -159,16 +161,16 @@ background-color: lightBlue
 
 .video-slider {
    position:absolute;
-   width:1367px;
-   height:450px;
+   width:1355px;
+   height:440px;
    top:193px;
     left:-1px;
 }
 
 .video-slide {
   position: absolute;
-  width:1365px;
-  height:450px;
+  width:1355px;
+  height:440px;
   left:-1px;
   object-fit: cover;
   transition: opacity 1s ease-in-out;
@@ -178,4 +180,59 @@ background-color: lightBlue
 .video-slide.active {
   opacity: 1;
 }
+.prev-button, .next-button {
+  position: absolute;
+  top: 50%;
+  border-radius:27px;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  border: none;
+  color: white;
+  font-size: 3em;
+  cursor: pointer;
+  z-index: 1;
+}
 
+.prev-button {
+  left: 0;
+}
+
+.next-button {
+  right: 0;
+}
+
+.highlight {
+  background-color:#7cb9e8 ;
+  padding: 0 5px;
+  border-radius: 3px;
+  position:absolute;
+  left:270px;
+  top:658px;
+  font-family: "Kalam", cursive;
+  height:50px;
+  font-size:35px;
+  font-weight: bold;
+  border-radius:20px;
+}
+.text-heighlight{
+    position:absolute;
+    left:160px;
+    top:628px;
+    font-size:35px;
+    font-weight: bold;
+}
+.text-heighlight-second-sentance{
+   position:absolute;
+    left:489px;
+    top:628px;
+    font-size:35px;
+   font-weight:bold;
+}
+.text-heighlight-second-third{
+        position:absolute;
+         left:10px;
+         top:700px;
+         font-size:25px;
+         font-weight:bold;
+         color:gray;
+}
