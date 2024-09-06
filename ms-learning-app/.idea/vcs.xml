@@ -5,6 +5,7 @@
     <mapping directory="$PROJECT_DIR$/../../GitHub" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../JavaPrograms" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../JavaScript" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../react_documentation" vcs="Git" />
   </component>
 </project>

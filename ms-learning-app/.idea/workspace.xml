@@ -5,32 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f211841d-65bf-4cc6-aa8d-4eec2425be43" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/javaScript/src/PacManGame/PacMan.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/javaScript/src/PacManGame/PacManGame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/javaScript/src/PacManGame/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/react-folder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ms-learning-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mahaswami.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoursePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaLearningPlatform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProfileCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SignPage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaScript" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaScript" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ms-learning-app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaScript/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/javaScript/src/SnakeGame/SnakeGame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaScript/javaScript/src/SnakeGame/SnakeGame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/.idea/ms-learning-app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/ms-learning-app/src/setupTests.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../react_documentation" beforeDir="false" afterPath="$PROJECT_DIR$/../../react_documentation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_documentation/react-documentation-related_examples/src/ManagingState/ReactingWithInputState/ReactingWithInputState.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../react_documentation/react-documentation-related_examples/src/ManagingState/ReactingWithInputState/ReactingWithInputState.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +58,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -50,13 +70,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/msuser1/personal_workspace"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/msuser1/personal_workspace/react-folder/ms-learning-app/public&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,6 +102,17 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
